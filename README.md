@@ -3,6 +3,8 @@
 This publication describes a standard filesystem skeleton suitable for all PHP
 packages.
 
+この配布は、すべてのPHPパッケージに最適な標準のファイルシステムのスケルトンとして記述します。
+
 Please see <https://github.com/php-pds/skeleton_research> for background
 information.
 
